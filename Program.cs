@@ -15,8 +15,7 @@ while (true)
     char keyChar = Console.ReadKey(true).KeyChar;
     if (keyChar == 'Q' || keyChar == 'q') return;
 
-    ReadInt
-}
+    }
 ///<summary>
 ///Wyswietla informacje  i wczytuje wartosci typu int z konsoli
 /// </summary>
